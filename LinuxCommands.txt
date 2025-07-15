@@ -1,0 +1,31 @@
+cd  	 --> Change the current directory
+pwd   --> Display the full path of current working directory
+ls    --> List the contents of the current directory
+cd ..  ---> Navigates to the parent directory
+cd -   ---> Navigates to the home directory
+mkdir  --> Create a new directory
+cp [source] [destination]  --> Copies files or directory
+mv [source] [destination]  --> moves or rename files or directory
+touch --> Create an empty files.
+cat [file-name]  ---> Display the contents of file
+less 	---> Display the contents of file page by page
+head 	---> Display first few lines of a file
+tail 	---> Display the last few lines of a file
+uname   --> Display system information
+whoami   ---> Display the current username
+ps    ---> Lists currently running process
+top    ---> Display a dynamic, real -time view of running processs
+df   ---> Display disk space usage
+du    ---> Display disk usage of files and directories   
+grep  [partten] [file-name]  ----> Searches for a specific partten in a file
+sort [file-name]  ---> sorts the lines of a file
+wc [file-name] -- Count the number of lines, words and characters in a file.
+history   ----> 	Shows the last N commands
+history -c  ----> Clears the command history.
+history -d N   ----> Deletes the command at line number N.
+chmod  ---> 4.Read , 2. write 1.Execute
+file  ---> 
+ln   ---->
+cal  ---->
+ip ---->
+nslookup  --->
