@@ -24,8 +24,18 @@ history   ----> 	Shows the last N commands
 history -c  ----> Clears the command history.
 history -d N   ----> Deletes the command at line number N.
 chmod  ---> 4.Read , 2. write 1.Execute
-file  ---> 
+file  ---> Determines the file type.
 ln   ---->
-cal  ---->
-ip ---->
-nslookup  --->
+cal  ----> Displays a calendar. 
+ip ----> manage and display networking information
+nslookup  [hostname or IP address] ---> is a network utility used to query DNS (Domain Name System) records to find the IP address 
+zip  ---->  Compresses files into a zip archive.
+wget ---> Downloads files from the internet.
+tar  ---> Used for creating and extracting archive files.
+find  ---> Searches for files and directories based on various criteria.
+clear  ----> Clears the terminal screen.
+curl    ----> Transfers data with URLs.
+zip   ----> Compresses files into a zip archive.
+unzip   ----> Extracts files from a zip archive.
+chown  ---> Changes the owner of a file or directory.
+echo  ---> display a line of text or variables to the terminal. 
